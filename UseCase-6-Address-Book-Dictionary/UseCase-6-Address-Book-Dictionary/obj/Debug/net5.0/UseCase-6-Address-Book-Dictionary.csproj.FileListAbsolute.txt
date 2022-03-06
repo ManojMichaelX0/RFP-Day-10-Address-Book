@@ -1,0 +1,16 @@
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\bin\Debug\net5.0\UseCase-6-Address-Book-Dictionary.exe
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\bin\Debug\net5.0\UseCase-6-Address-Book-Dictionary.deps.json
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\bin\Debug\net5.0\UseCase-6-Address-Book-Dictionary.runtimeconfig.json
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\bin\Debug\net5.0\UseCase-6-Address-Book-Dictionary.runtimeconfig.dev.json
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\bin\Debug\net5.0\UseCase-6-Address-Book-Dictionary.dll
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\bin\Debug\net5.0\UseCase-6-Address-Book-Dictionary.pdb
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.csproj.AssemblyReference.cache
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.AssemblyInfoInputs.cache
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.AssemblyInfo.cs
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.dll
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\refint\UseCase-6-Address-Book-Dictionary.dll
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.pdb
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\UseCase-6-Address-Book-Dictionary.genruntimeconfig.cache
+D:\.net\UseCase-6-Address-Book-Dictionary\UseCase-6-Address-Book-Dictionary\obj\Debug\net5.0\ref\UseCase-6-Address-Book-Dictionary.dll
