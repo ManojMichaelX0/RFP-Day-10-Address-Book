@@ -1,0 +1,16 @@
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\bin\Debug\net5.0\UseCase-5-Address-Book-Add-new.exe
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\bin\Debug\net5.0\UseCase-5-Address-Book-Add-new.deps.json
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\bin\Debug\net5.0\UseCase-5-Address-Book-Add-new.runtimeconfig.json
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\bin\Debug\net5.0\UseCase-5-Address-Book-Add-new.runtimeconfig.dev.json
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\bin\Debug\net5.0\UseCase-5-Address-Book-Add-new.dll
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\bin\Debug\net5.0\UseCase-5-Address-Book-Add-new.pdb
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.csproj.AssemblyReference.cache
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.AssemblyInfoInputs.cache
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.AssemblyInfo.cs
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.dll
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\refint\UseCase-5-Address-Book-Add-new.dll
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.pdb
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\UseCase-5-Address-Book-Add-new.genruntimeconfig.cache
+D:\.net\UseCase-5-Address-Book-Add-new\UseCase-5-Address-Book-Add-new\obj\Debug\net5.0\ref\UseCase-5-Address-Book-Add-new.dll
